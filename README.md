@@ -7,3 +7,5 @@ Contains files:
 a3.pdf - UML Diagram
 
 To run: Type make into terminal inside the storeSimulator project folder, then ./a3 to run.
+
+Note: Must have GCC complier with C++ atleast version 2011 installed.
